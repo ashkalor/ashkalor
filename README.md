@@ -6,7 +6,7 @@
 
 - I build user experiences and softwares across different domains like **Web, Linux** and **Mobile**.
 - I work with **ROS-based robots** and their integration with web technologies.
-- I am proficient in working with video streaming and tunneling tools and their integrations with Web and Edge Computes.
+- I am proficient in working with video streaming and tunneling tools.
 - I am currently learning javascript and all the cool things it can do across different domains. 
 
 ### Work 🌱
