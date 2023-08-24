@@ -1,13 +1,13 @@
 # Hey 👋, I'm Akhilesh B Kalnoor
 
-> I am a Creative Fullstack Developer.
+> I am a Software Developer.
 
 ### About Me ⚡
 
 - I build user experiences and softwares across different domains like **Web, Linux** and **Mobile**.
-- I can offer you consulting to integrate your **ROS-based robots** with web technologies.
-- I can help you implement end to end **WEBRTC** and **tunneling** solutions for seamless connectivity
-- I am currently learning advanced **Three-Js** concepts  
+- I work with **ROS-based robots** and their integration with web technologies.
+- I am proficient in working with video streaming and tunneling tools and their integrations with Web and Edge Computes.
+- I am currently learning javascript and all the cool things it can do across different domains. 
 
 ### Work 🌱
 
