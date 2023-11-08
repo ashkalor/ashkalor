@@ -1,9 +1,10 @@
 # Hey 👋, I'm Akhilesh B Kalnoor
 
-> I am a Software Developer.
+> I am a Software Developer. 
 
 ### About Me ⚡
 
+- Graduated from BMS Institute of Technology and Management in 2022.
 - I build user experiences and softwares across different domains like **Web, Linux** and **Mobile**.
 - I work with **ROS-based robots** and their integration with web technologies.
 - I am proficient in working with video streaming and tunneling tools.
@@ -12,7 +13,6 @@
 ### Work 🌱
 
 - Working as **Full Stack Developer** at FloMobility ( 2022-2023 )
-- Worked as **Director of Public Relations** at [E-Cell BMSIT](https://www.instagram.com/ecell.bmsit/) ( 2021-2022 )
 
 ### Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhileshbkalnoor) 
